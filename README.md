@@ -14,5 +14,5 @@ Any [Scala](http://wwww.scala-lang.org) distribution
 Just type "sparklite.sh"
 
 ##How it works
-Check [sparklite.sh](/sparklyte.sh) source
+Check [sparklyte.sh](/sparklyte.sh) source
 
