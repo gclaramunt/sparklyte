@@ -8,6 +8,11 @@ Since most of so called "big data" doesn't need a cluster to process and easily 
 Once you reach the limits of your hardware, you can go ahead and almost seamessly transition to a full Spark cluster
 
 ## Requirements
-Any [Scala](wwww.scala-lang.org) distribution 
+Any [Scala](http://wwww.scala-lang.org) distribution 
 
-Disclaimer: this is just a wrapper that does nothing but call the Scala REPL
+##How to run it
+Just type "sparklite.sh"
+
+##How it works
+Check [sparklite.sh](/sparklyte.sh) source
+
